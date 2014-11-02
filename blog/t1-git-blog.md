@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-Title
 
-Subtitle
-
-Date
-
-Paragraph 1
-
-Paragraph 2
-
-Paragraph 3
-
-Add as many paragraphs as you want!!!
-=======
 <html>
   <body>
+
+    This is my Phase 0 blog jam, go with it.
+
+
     Hey Newbs!
 
 
