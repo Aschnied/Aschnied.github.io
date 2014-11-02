@@ -1,7 +1,4 @@
 
-<html>
-  <body>
-
     This is my Phase 0 blog jam, go with it.
 
 
@@ -19,7 +16,3 @@
     Having Github store your code allows others to view your code and help you.  It also allows users to share their     code with others.
 
     So Github not only helps you manage your code, but it allows other people to help you;  which is really good.
->>>>>>> a9b1159ea9fe5cd54a0cb955f7792f98aafa486c
-
-  </body>
-</html>
