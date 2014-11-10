@@ -43,3 +43,6 @@ a:link {
     position: relative;
 }
 
+#footer {
+    bottom: 0px;
+}
