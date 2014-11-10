@@ -1,6 +1,3 @@
-* {
-background-color: #E8E8E8;
-}
 
 
 ul {
@@ -18,17 +15,17 @@ ul {
     font-size: 70px;
     text-align: center;
     color: black;
-    background-color: white;
+    background-color: #E8E8E8;
     font-family: Verdana;
     font-variant: small-caps;
     border: 2px solid black;
-    width: 99%;
+    width: 95%;
 }
 
 a:link {
   text-decoration: none;
   font-family: sans-serif;
-  color: none;
+  color: #FF00FF;
 }
 
 
@@ -40,9 +37,24 @@ a:link {
     text-decoration: none;
     font-size: 25px;
     float: left;
-    position: relative;
 }
 
+ul li {
+    margin-top: 70px;
+}
 #footer {
-    bottom: 0px;
+    width: 100%;
+    height: 70px;
+    background-color: #CC00CC;
+    margin-top: 470px;
+    margin-bottom: 0px;
+
+}
+
+#footer li {
+    display: inline;
+}
+.buttons {
+    float: left;
+    padding: 10px;
 }
