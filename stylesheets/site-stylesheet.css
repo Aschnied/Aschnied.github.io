@@ -1,0 +1,45 @@
+* {
+background-color: #E8E8E8;
+}
+
+
+ul {
+    list-style-type: none
+}
+
+
+#center {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#header {
+    font-size: 70px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-family: Verdana;
+    font-variant: small-caps;
+    border: 2px solid black;
+    width: 99%;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: none;
+}
+
+
+#left {
+    font-family: sans-serif;
+    width: 150px;
+    height: 100px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+
