@@ -43,6 +43,13 @@ a:link {
     float: left;
 }
 
+#blogentries {
+
+    float: right;
+    margin-bottom: 600px;
+    margin-top: -400px;
+    margin-right: 100px;
+}
 ul li {
     margin-top: 70px;
 }
@@ -62,3 +69,4 @@ ul li {
     float: left;
     padding: 10px;
 }
+
