@@ -55,6 +55,28 @@
   color: white;
   font-size: 30px;
 
+}
 
+#footer li {
+    display: inline;
+}
 
+#footer {
+    width: 100%;
+    height: 70px;
+    background-color: #CC00CC;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.buttons {
+    float: left;
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #FF00FF;
 }
