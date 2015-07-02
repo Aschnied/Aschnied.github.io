@@ -95,10 +95,10 @@ a:link {
 
 }
 
-a:hover {
+/*a:hover {
   text-decoration: underline;
   color: #66FFCC;
-}
+}*/
 
 a:visited {
   text-decoration: none;
