@@ -24,8 +24,12 @@
   color: white;
   font-size: 30px;
   padding: 30px 30px 30px 30px;
-
 }
+
+#resume {
+  height: 200px;
+}
+
 
 .blog {
   height: 200px;
@@ -33,11 +37,10 @@
   padding: 5%;
   color: white;
   font-size: 30px;
-
 }
 
 .skills {
-  height: 300px;
+  height: 330px;
   background-color: #FF6666;
   padding: 5%;
   color: white;
@@ -50,7 +53,6 @@
   padding: 5%;
   color: white;
   font-size: 30px;
-
 }
 
 .funstuff {
