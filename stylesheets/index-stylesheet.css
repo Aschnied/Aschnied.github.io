@@ -18,7 +18,7 @@
 
 
 .aboutme {
-  background-color: #FF6699;
+  background-color: #FA565F;
   height: 335px;
   font-family: sans-serif;
   color: white;
@@ -31,14 +31,14 @@
 
 .skills {
   height: 330px;
-  background-color: #FF6666;
+  background-color: #C4C093;
   padding: 5%;
   color: white;
   font-size: 30px;
 }
 
 .resume {
-  background-color: #FFCC66;
+  background-color: #9BB697;
   color: white;
   font-size: 30px;
   height: 250px;
@@ -47,14 +47,14 @@
 
 .blog {
   height: 200px;
-  background-color: #D0D0D0;
+  background-color: #247B8C;
   padding: 5%;
   color: white;
   font-size: 30px;
 }
 
 .projects {
-  background-color: #00CCFF;
+  background-color: #2D4B6F;
   height: 200px;
   padding: 5%;
   color: white;
