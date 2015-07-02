@@ -93,3 +93,7 @@ a:link {
   font-family: sans-serif;
   color: #FF00FF;
 }
+
+a:visited {
+  text-decoration: none;
+  color: white;
