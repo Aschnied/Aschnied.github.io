@@ -26,23 +26,28 @@
   padding: 30px 30px 30px 30px;
 }
 
-#resume {
-  height: 200px;
-  background-color: #FFFF99;
-}
 
 
-.blog {
-  height: 200px;
-  background-color: #D0D0D0;
+
+.skills {
+  height: 330px;
+  background-color: #FF6666;
   padding: 5%;
   color: white;
   font-size: 30px;
 }
 
-.skills {
-  height: 330px;
-  background-color: #FF6666;
+.resume {
+  height: 200px;
+  background-color: #FFFF99;
+  color: white;
+  font-size: 30px;
+  height: 200px;
+}
+
+.blog {
+  height: 200px;
+  background-color: #D0D0D0;
   padding: 5%;
   color: white;
   font-size: 30px;
