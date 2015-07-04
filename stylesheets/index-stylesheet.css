@@ -83,6 +83,10 @@
 
 }
 
+li#id {
+  postion: center;
+}
+
 .buttons {
     float: left;
     padding: 10px;
