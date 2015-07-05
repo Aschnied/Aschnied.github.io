@@ -1,4 +1,5 @@
 * {
+  text-align: center
   /*border: 1px solid black;*/
 }
 
@@ -61,10 +62,6 @@
   display: inline-block;
   vertical-align: top;
 
-}
-
-#footer li {
-    display: inline;
 }
 
 #footer {
