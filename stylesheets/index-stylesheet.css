@@ -75,9 +75,11 @@
     background-color: #CC00CC;
     margin-top: 0px;
     margin-bottom: 0px;
-
 }
 
+#stalk {
+  text-align: center;
+}
 
 .buttons {
     float: left;
@@ -100,5 +102,4 @@ a:visited {
 }
 
 
-/*popup div css*/
 
