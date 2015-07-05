@@ -81,12 +81,14 @@
   float: left;
   font-size: 25px;
   color: white;
+  margin-left: 25%;
 }
 
 #stalk2 {
   float: right;
   font-size: 25px;
   color: white;
+  margin-right: 25%;
 }
 
 .buttons {
