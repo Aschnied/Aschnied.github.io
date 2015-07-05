@@ -17,14 +17,13 @@
   font-size: 30px;
 }
 
-
 .aboutme {
   background-color: #FA565F;
   height: 500px;
   font-family: sans-serif;
   color: white;
   font-size: 30px;
-  padding: 30px 30px 30px 30px;
+  padding: 5%;
   width: 40%;
   display: inline-block;
 
