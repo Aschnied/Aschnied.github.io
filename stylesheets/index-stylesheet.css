@@ -6,6 +6,7 @@
 .header {
   height: 30%;
   width: 100%;
+  margin: 0;
 }
 
 .navbar {
@@ -94,7 +95,7 @@
 a:link {
   text-decoration: none;
   font-family: sans-serif;
-  color: #FF00FF;
+  color: white;
 }
 
 a:hover {
