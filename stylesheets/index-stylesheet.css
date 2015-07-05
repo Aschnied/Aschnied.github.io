@@ -18,6 +18,10 @@
   font-size: 30px;
 }
 
+#content {
+  display: inline-block;
+}
+
 #aboutme {
   background-color: #FA565F;
   width: 40%;
