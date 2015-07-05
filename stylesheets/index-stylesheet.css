@@ -7,7 +7,12 @@
   font-size: 0;
   width: 100%;
 }
-.header {
+
+#indexContent {
+  font-size: 0;
+}
+
+#header {
   height: 30%;
   width: 100%;
 }
