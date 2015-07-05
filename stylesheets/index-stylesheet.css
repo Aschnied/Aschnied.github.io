@@ -29,34 +29,34 @@
   font-size: 0;
 }
 
+#projects {
+  background-color: #2D4B6F;
+  width: 95%;
+  height: 300px;
+}
+
 #aboutme {
   background-color: #FA565F;
-  width: 49%;
+  width: 46%;
   height: 400px;
 }
 
 #skills {
   background-color: #6699FF;
-  width: 49%;
+  width: 46%;
   height: 400px;
 }
 
 #resume {
   background-color: #9BB697;
-  width: 49%;
+  width: 46%;
   height: 280px;
 }
 
 #blog {
   background-color: #247B8C;
-  width: 49%;
+  width: 46%;
   height: 280px;
-}
-
-#projects {
-  background-color: #2D4B6F;
-  width: 94%;
-  height: 300px;
 }
 
 #funstuff {
