@@ -99,6 +99,7 @@
 a.button {
     /*float: center;*/
     margin-top: 5%;
+    width: 10%;
 }
 
 a:link {
