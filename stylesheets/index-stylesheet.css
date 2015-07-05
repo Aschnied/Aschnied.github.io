@@ -75,8 +75,14 @@
     background-color: #CC00CC;
 }
 
-#stalk {
-  text-align: center;
+#stalk1 {
+  float: left;
+  font-size: 25px;
+  color: white;
+}
+
+#stalk2 {
+  float: right;
   font-size: 25px;
   color: white;
 }
