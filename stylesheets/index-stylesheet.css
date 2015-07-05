@@ -56,8 +56,10 @@
   height: 400px;
   font-size: 25px;
   color: white;
-  padding: 5%;
+  padding: 3%;
   font-family: sans-serif;
+  display: inline-block;
+
 }
 
 #footer li {
