@@ -20,7 +20,7 @@
 
 .aboutme {
   background-color: #FA565F;
-  height: 60%;
+  height: 500px;
   font-family: sans-serif;
   color: white;
   font-size: 30px;
@@ -30,10 +30,8 @@
 }
 
 
-
-
 .skills {
-  height: 60%;
+  height: 500px;
   background-color: #6699FF;
   padding: 5%;
   color: white;
@@ -69,7 +67,7 @@
   padding: 5%;
   color: white;
   font-size: 30px;
-  width: 30%;
+  width: 99%;
   display: inline-block;
 }
 
