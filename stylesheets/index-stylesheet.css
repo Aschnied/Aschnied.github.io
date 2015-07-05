@@ -19,29 +19,27 @@
 
 #aboutme {
   background-color: #FA565F;
-  width: 49%;
-
-
+  width: 45%;
 }
 
 
 #skills {
   background-color: #6699FF;
-  width: 49%;
+  width: 45%;
 
 }
 
 #resume {
   background-color: #9BB697;
   padding: 1%;
-  width: 49%;
+  width: 45%;
 
 
 }
 
 #blog {
   background-color: #247B8C;
-  width: 49%;
+  width: 45%;
 
 }
 
@@ -61,6 +59,7 @@
   padding: 3%;
   color: white;
   display: inline-block;
+
 
 }
 
