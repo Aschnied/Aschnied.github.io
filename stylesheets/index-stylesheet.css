@@ -1,6 +1,4 @@
 * {
-  font-family: sans-serif;
-  text-align: center;
   /*border: 1px solid black;*/
 }
 
@@ -75,6 +73,7 @@
     background-color: #CC00CC;
     padding: 2%
     font-size: 25px;
+    font-family: sans-serif;
 }
 
 #stalk1 {
@@ -93,7 +92,7 @@
 
 .button {
     float: center;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 
 a:link {
