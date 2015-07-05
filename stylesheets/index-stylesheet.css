@@ -73,8 +73,6 @@
     width: 100%;
     height: 70px;
     background-color: #CC00CC;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 #stalk {
@@ -84,7 +82,7 @@
 }
 
 .buttons {
-    float: left;
+    float: center;
     padding: 10px;
 }
 
