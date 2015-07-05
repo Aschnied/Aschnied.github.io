@@ -32,11 +32,13 @@
 #aboutme {
   background-color: #FA565F;
   width: 44%;
+  height: 400px;
 }
 
 #skills {
   background-color: #6699FF;
   width: 44%;
+  height: 400px;
 }
 
 #resume {
@@ -63,10 +65,9 @@
 }
 
 .box {
-  height: 400px;
   font-size: 25px;
   color: white;
-  padding: 3%;
+  padding: 2%;
   font-family: sans-serif;
   display: inline-block;
   vertical-align: top;
