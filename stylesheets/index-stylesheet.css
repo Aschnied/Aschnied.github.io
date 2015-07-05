@@ -19,13 +19,13 @@
 
 #aboutme {
   background-color: #FA565F;
-  width: 38%;
+  width: 40%;
 }
 
 
 #skills {
   background-color: #6699FF;
-  width: 38%;
+  width: 40%;
 
 }
 
@@ -46,10 +46,7 @@
 
 #funstuff {
   background-color: #FF9966;
-  padding: 5%;
-  color: white;
-  font-size: 30px;
-  width: 30%;
+  width: 38%;
 }
 
 .box {
