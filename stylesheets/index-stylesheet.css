@@ -3,6 +3,9 @@
   /*border: 1px solid black;*/
 }
 
+#body {
+  font-size: 0;
+}
 .header {
   height: 30%;
   width: 100%;
