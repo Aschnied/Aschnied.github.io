@@ -17,6 +17,10 @@
   width: 100%;
 }
 
+header.jumplink {
+  margin: 2%;
+}
+
 .navbar {
   background-color: #0099CC;
   width:  100%;
