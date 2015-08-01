@@ -42,27 +42,22 @@ header.jumplink {
 
 #aboutme {
   background-color: #FA565F;
-  width: 46%;
+  width: 100%;
   height: 200px;
 }
 
 #skills {
   background-color: #6699FF;
-  width: 46%;
+  width: 100%;
   height: 200px;
 }
 
 #resume {
   background-color: #9BB697;
-  width: 46%;
+  width: 100%;
   height: 280px;
 }
 
-#blog {
-  background-color: #247B8C;
-  width: 46%;
-  height: 280px;
-}
 
 #funstuff {
   background-color: #FF9966;
