@@ -30,40 +30,34 @@ header.jumplink {
   font-size: 30px;
 }
 
+#name {
+  float: left;
+}
+
 #content {
   font-size: 0;
 }
 
 #projects {
-  background-color: #2D4B6F;
   height: 100px;
 
 }
 
 #aboutme {
-  background-color: #FA565F;
+
   height: 200px;
 }
 
 #skills {
-  background-color: #6699FF;
+
   height: 200px;
 }
 
+
+
 #resume {
-  background-color: #9BB697;
-  height: 280px;
-}
 
-#blog {
-  background-color: #247B8C;
-  width: 46%;
   height: 280px;
-}
-
-#funstuff {
-  background-color: #FF9966;
-  width: 38%;
 }
 
 .box {
