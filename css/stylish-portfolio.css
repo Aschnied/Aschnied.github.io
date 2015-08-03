@@ -18,12 +18,13 @@ body {
 
 .navbar {
     background-color: rgb(134,171,209);
-
-}
-
-a.navbar-brand {
     color: rgb(71,80,89);
+
 }
+
+/*a .navbar-brand {
+    color: rgb(71,80,89);
+}*/
 
 .navbar-collapse {
     color: rgb(71,80,89);
