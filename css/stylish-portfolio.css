@@ -21,8 +21,8 @@ body {
 
 }
 
-.navbar-brand {
-    color: black;
+a .navbar-brand {
+    color: rgb(71,80,89);
 }
 
 .text-vertical-center {
