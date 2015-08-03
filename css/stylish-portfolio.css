@@ -96,19 +96,20 @@ hr.small {
 }
 
 #top h1 {
-    color: rgb(79,88,97);
-    background-color: rgba(220,226,232,0.8);
+    color: rgb(46,54,61);
+    background-color: rgba(134,171,209,0.8);
     width: 60%;
     margin-left: 20%;
     border-radius: 5%;
 }
 
 #top h3 {
-    color: rgb(79,88,97);
+    color: rgb(46,54,61);
     background-color: rgba(220,226,232,0.8);
-    width: 50%;
-    margin-left: 25%;
+    width: 60%;
+    margin-left: 20%;
     border-radius: 5%;
+    margin-top: -5%;
 
 }
 
