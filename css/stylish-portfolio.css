@@ -18,15 +18,10 @@ body {
 
 .navbar {
     background-color: rgb(134,171,209);
+    color: white;
 }
 
-.navbar-default navbar-brand {
-    color: rgb(71,80,89);
-}
 
-li {
-    color: rgb(103,130,138);
-}
 
 .text-vertical-center {
     display: table-cell;
