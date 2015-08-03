@@ -94,6 +94,7 @@ hr.small {
 #top h1 {
     color: rgba(134,171,209,0.9);
     background-color: rgba(220,226,232,0.4);
+    width: 70%;
 }
 
 #top h3 {
