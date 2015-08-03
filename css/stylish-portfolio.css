@@ -17,11 +17,13 @@ body {
 }
 
 .navbar {
-    /*background-color: rgb(134,171,209);*/
+    background-color: rgb(134,171,209);
 
 }
 
-
+.navbar-brand {
+    color: rgb(71,80,89);
+}
 
 .text-vertical-center {
     display: table-cell;
