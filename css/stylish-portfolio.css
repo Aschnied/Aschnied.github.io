@@ -16,6 +16,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.navbar-header {
+    background color: rgb(134,171,209);
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -79,11 +83,11 @@ hr.small {
 }
 
 #top h1 {
-    color: rgba(134,171,209,0.8);
+    color: rgba(134,171,209,0.9);
 }
 
 #top h3 {
-    color: rgba(134,171,209,0.8);
+    color: rgba(134,171,209,0.9);
 }
 
 /* About */
