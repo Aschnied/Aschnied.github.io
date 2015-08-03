@@ -20,12 +20,12 @@ body {
     background-color: rgb(134,171,209);
 }
 
-a.navbar-brand {
-       color: rgb(71,80,89);
+a {
+    color: rgb(71,80,89);
 }
 
-.navbar li {
-       color: rgb(103,130,138);
+li {
+    color: rgb(103,130,138);
 }
 
 .text-vertical-center {
