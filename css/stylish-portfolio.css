@@ -113,6 +113,10 @@ hr.small {
 
 }
 
+#name-container {
+    display: inline-block;
+}
+
 /* About */
 
 .about {
