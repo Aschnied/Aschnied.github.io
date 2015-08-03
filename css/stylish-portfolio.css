@@ -20,7 +20,7 @@ body {
     background-color: rgb(134,171,209);
 }
 
-a {
+.navbar-default navbar-brand {
     color: rgb(71,80,89);
 }
 
