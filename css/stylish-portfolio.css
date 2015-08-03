@@ -78,9 +78,14 @@ hr.small {
     -o-background-size: cover;
 }
 
-.header h3 {
+#top h1 {
     color: rgba(134,171,209,0.8);
 }
+
+#top h3 {
+    color: rgba(134,171,209,0.8);
+}
+
 /* About */
 
 .about {
