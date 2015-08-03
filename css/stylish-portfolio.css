@@ -21,7 +21,11 @@ body {
 
 }
 
-a .navbar-brand {
+a.navbar-brand {
+    color: rgb(71,80,89);
+}
+
+.navbar-collapse {
     color: rgb(71,80,89);
 }
 
