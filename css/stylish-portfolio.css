@@ -16,8 +16,8 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.navbar-header {
-    background color: rgb(134,171,209);
+.navbar {
+    background: rgb(134,171,209);
 }
 
 .text-vertical-center {
