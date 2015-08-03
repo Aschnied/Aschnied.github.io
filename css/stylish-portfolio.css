@@ -101,6 +101,9 @@ hr.small {
 #top h3 {
     color: rgb(79,88,97);
     background-color: rgba(220,226,232,0.8);
+    width: 50%;
+    margin-left: 25%;
+
 }
 
 /* About */
