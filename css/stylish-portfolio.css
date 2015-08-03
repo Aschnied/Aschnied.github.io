@@ -95,8 +95,10 @@ hr.small {
 #top h1 {
     color: rgb(79,88,97);
     background-color: rgba(220,226,232,0.8);
-    width: 70%;
-    margin-left: 15%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: -10%;
+    border-radius: 5%;
 }
 
 #top h3 {
@@ -104,6 +106,7 @@ hr.small {
     background-color: rgba(220,226,232,0.8);
     width: 50%;
     margin-left: 25%;
+    border-radius: 5%;
 
 }
 
