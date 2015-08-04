@@ -114,6 +114,7 @@ hr.small {
 
 #name-container {
     text-align: center;
+    color: white;
     background-color: rgba(49,45,85,0.9);
     margin: auto;
     display: inline-block;
