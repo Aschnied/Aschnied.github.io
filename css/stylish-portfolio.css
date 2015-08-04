@@ -119,6 +119,9 @@ hr.small {
     padding: 5%;
 }
 
+#name {
+    font-size: 4em;
+}
 /* About */
 
 .about {
