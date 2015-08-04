@@ -116,11 +116,16 @@ hr.small {
     background-color: rgba(134,171,209,0.8);
     margin: auto;
     display: inline-block;
-    padding: 5%;
+    padding: 2%;
+    border-radius: 5%;
 }
 
 #name {
     font-size: 4em;
+}
+
+#job {
+    font-size: 2em;
 }
 /* About */
 
