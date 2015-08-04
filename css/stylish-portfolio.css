@@ -133,12 +133,14 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    border: 1px rgb(49,45,85);
 }
 
 /* Services */
 
-.services {
+.projects {
     padding: 50px 0;
+    border: 1px rgb(49,45,85);
 }
 
 .service-item {
