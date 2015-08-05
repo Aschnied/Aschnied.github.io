@@ -46,10 +46,10 @@ body {
     color: rgb(215, 217, 219);
 }
 
-
-/*a .navbar-brand {
-    color: rgb(71,80,89);
-}*/
+a:visited {
+    text-decoration: none;
+    color: white;
+}
 
 .navbar-collapse {
    /* color: rgb(71,80,89);*/
