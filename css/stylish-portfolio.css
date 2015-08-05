@@ -30,14 +30,19 @@ body {
     color: white;
 }
 
-.navbar-default .navbar-brand>a:hover {
+.navbar-default .navbar-brand :hover {
     color: rgb(215, 217, 219);
 }
-.navbar-default .navbar-nav>li>a {
+
+.navbar-default .navbar-nav > li > a {
     color: white;
 }
 
-.navbar-default .navbar-nav>li>a:focus {
+.navbar-default .navbar-nav > li > a:hover {
+    color: rgb(215, 217, 219);
+}
+
+.navbar-default .navbar-nav > li > a:focus {
     color: rgb(215, 217, 219);
 }
 
