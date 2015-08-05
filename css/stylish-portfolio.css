@@ -37,7 +37,7 @@ body {
     color: white;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
+.navbar-default .navbar-nav>li>a:focus {
     color: rgb(215, 217, 219);
 }
 
