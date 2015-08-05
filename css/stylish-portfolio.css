@@ -30,7 +30,7 @@ body {
     color: white;
 }
 
-.navbar-default .navbar-brand a:hover {
+.navbar-default .navbar-brand:hover {
     color: rgb(215, 217, 219);
 }
 
