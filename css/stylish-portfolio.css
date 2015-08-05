@@ -27,6 +27,10 @@ body {
 
 }
 
+.navbar-default .navbar-brand {
+    color: white;
+}
+
 /*a .navbar-brand {
     color: rgb(71,80,89);
 }*/
