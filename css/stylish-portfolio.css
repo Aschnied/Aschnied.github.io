@@ -46,7 +46,7 @@ body {
     color: rgb(215, 217, 219);
 }
 
-a:visited {
+a.navbar-brand:visited {
     text-decoration: none;
     color: white;
 }
