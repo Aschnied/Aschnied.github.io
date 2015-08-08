@@ -159,6 +159,12 @@ hr.small {
 #skills {
     padding: 3%;
     background-color: rgb(215, 217, 219);
+    text-align:
+}
+
+.skills .col-sm-2 {
+    text-align: center;
+    margin-bottom: 2%;
 }
 
 #projects {
