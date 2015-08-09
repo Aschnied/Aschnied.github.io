@@ -171,6 +171,10 @@ hr.small {
     margin-bottom: 2%;
 }
 
+.icon {
+    width: 100%;
+}
+
 #projects {
     padding: 50px 0;
     border: 1em rgb(49,45,85);
