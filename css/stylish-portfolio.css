@@ -197,6 +197,10 @@ hr.small {
     margin: 0 auto;
 }
 
+.portfolio-item {
+    border: 1px solid black;
+}
+
 .img-portfolio-item {
     width: 30%;
 }
