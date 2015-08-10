@@ -195,7 +195,7 @@ hr.small {
 
 .project-item {
     margin-bottom: 2%;
-    flex: 1;
+    height: 30%;
 }
 
 .img-portfolio {
