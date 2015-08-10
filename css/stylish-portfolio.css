@@ -201,6 +201,7 @@ hr.small {
     border: 1px solid black;
     text-align: center;
     margin-bottom: 2%;
+    background-color: rgb(49,45,85);
 }
 
 .img-portfolio-item {
@@ -211,6 +212,7 @@ hr.small {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2%;
+    border: 2px solid white;
 
 }
 
