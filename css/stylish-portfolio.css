@@ -194,15 +194,19 @@ hr.small {
 }
 
 .img-portfolio {
-    margin: 0 auto;
+    margin: auto;
 }
 
 .portfolio-item {
     border: 1px solid black;
+    text-align: center;
+
 }
 
 .img-portfolio-item {
     width: 30%;
+    vertical-align: middle;
+
 }
 
 /* Footer */
