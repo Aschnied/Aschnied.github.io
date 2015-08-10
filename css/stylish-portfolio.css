@@ -193,8 +193,9 @@ hr.small {
 }
 
 
-.projects-item {
-    margin-bottom: 30px;
+.project-item {
+    margin-bottom: 2%;
+    flex: 1;
 }
 
 .img-portfolio {
