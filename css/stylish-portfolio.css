@@ -183,6 +183,8 @@ hr.small {
 #projects {
     padding: 50px 0;
     border: 1em rgb(49,45,85);
+    background-color:  rgb(49,45,85);
+
 }
 
 .service-item {
@@ -201,7 +203,6 @@ hr.small {
     border: 1px solid black;
     text-align: center;
     margin-bottom: 2%;
-    background-color: rgb(49,45,85);
 }
 
 .img-portfolio-item {
@@ -213,6 +214,7 @@ hr.small {
     margin-right: auto;
     margin-bottom: 2%;
     border: 2px solid white;
+    background-color: white;
 
 }
 
