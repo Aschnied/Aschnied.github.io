@@ -184,7 +184,10 @@ hr.small {
     padding: 50px 0;
     border: 1em rgb(49,45,85);
     background-color:  rgb(49,45,85);
+}
 
+.project-header {
+    color: white;
 }
 
 .equal, .equal > div[class*='col-'] {
