@@ -188,9 +188,10 @@ hr.small {
 
 }
 
-.projects-row {
+.project-row {
     display: flex;
 }
+
 
 .projects-item {
     margin-bottom: 30px;
