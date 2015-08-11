@@ -247,6 +247,12 @@ hr.small {
 
 }
 
+/* Contact Info */
+
+.contact-icons i {
+    width: 5em;
+}
+
 /* Footer */
 
 footer {
