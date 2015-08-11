@@ -165,8 +165,9 @@ hr.small {
     border: 1px rgb(49,45,85);
 }
 
-.col-sm-2 .facepic {
+.facepic {
     vertical-align: middle;
+
 }
 
 /* Skills */
