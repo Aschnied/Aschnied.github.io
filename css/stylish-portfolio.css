@@ -230,6 +230,7 @@ hr.small {
 .project-item {
     margin-bottom: 2%;
     height: 30%;
+    border: 1px rgb(49,45,85);
 }
 
 .img-portfolio {
