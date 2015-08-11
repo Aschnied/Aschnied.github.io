@@ -159,6 +159,7 @@ hr.small {
     padding: 3%;
     background-color: rgb(49,45,85);
     color: white;
+    border-bottom: 1px solid white;
 }
 
 .skills i {
