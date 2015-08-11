@@ -59,7 +59,7 @@ a.col-sm-2: visited {
     color: black;
 }
 
-a.col-sm-2.mailto:visited {
+a.col-sm-2, mailto :visited {
     color: black;
 }
 
