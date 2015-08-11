@@ -188,7 +188,11 @@ hr.small {
 }
 
 #pouptube-jpg {
-    margin-top: 20%;
+    margin-top: 10%;
+}
+
+#pouptube-title {
+    margin-bottom: 10%;
 }
 
 .project-header {
