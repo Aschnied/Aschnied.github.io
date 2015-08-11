@@ -164,6 +164,7 @@ hr.small {
 
 .skills i, #contact i {
     font-size: 5em;
+    text-align: center;
 }
 
 .skills-header {
