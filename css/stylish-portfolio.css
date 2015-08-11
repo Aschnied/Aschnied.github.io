@@ -51,6 +51,9 @@ a.navbar-brand:visited {
     color: white;
 }
 
+a.col-sm-2: visited {
+    color: black;
+}
 .navbar-collapse {
    /* color: rgb(71,80,89);*/
 }
