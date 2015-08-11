@@ -167,7 +167,8 @@ hr.small {
 
 .facepic {
     vertical-align: middle;
-    margin-top: 25%;
+    margin-top: 12%;
+    border-radius: 5px;
 }
 
 /* Skills */
