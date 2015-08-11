@@ -249,8 +249,11 @@ hr.small {
 
 /* Contact Info */
 
-.contact-icons i {
+#contact i {
     width: 5em;
+    vertical-align: middle;
+    display: block;
+
 }
 
 /* Footer */
