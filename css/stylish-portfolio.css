@@ -162,7 +162,7 @@ hr.small {
     border-bottom: 1px solid white;
 }
 
-.skills i {
+.skills i, #contact i {
     font-size: 5em;
 }
 
@@ -245,12 +245,6 @@ hr.small {
 
 /* Contact Info */
 
-#contact i {
-    width: 5em;
-    vertical-align: middle;
-    display: block;
-
-}
 
 /* Footer */
 
