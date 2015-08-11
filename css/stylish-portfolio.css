@@ -21,6 +21,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+a:visited {
+    color: none;
+}
+
 .navbar {
     background-color: rgb(49,45,85);
 
