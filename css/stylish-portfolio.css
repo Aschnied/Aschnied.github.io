@@ -179,7 +179,6 @@ hr.small {
     text-align: center;
     vertical-align: middle;
     text-decoration: none;
-
 }
 
 .skills-header {
@@ -263,6 +262,10 @@ hr.small {
 
 .contact-header {
     margin-bottom: 5%;
+}
+
+.social .col-sm-2 {
+    text-align: center;
 }
 
 /* Footer */
