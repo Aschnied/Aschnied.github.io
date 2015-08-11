@@ -58,6 +58,11 @@ a.navbar-brand:visited {
 a.col-sm-2: visited {
     color: black;
 }
+
+a.col-sm-2.mailto:visited {
+    color: black;
+}
+
 .navbar-collapse {
    /* color: rgb(71,80,89);*/
 }
