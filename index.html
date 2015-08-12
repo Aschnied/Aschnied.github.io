@@ -21,6 +21,9 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
+    <!-- Tooltip --!>
+    <script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
+
     <!-- Dev Icons --!>
     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/89f2f44ba07ea3fff7e561c2142813b278c2d6c6/devicon.min.css">
 
@@ -31,6 +34,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
 
 </head>
 
@@ -103,43 +107,43 @@
             <h3>What's in My Brain</h3>
         </div>
         <div class="row skills">
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Ruby">
                 <i class="icon devicon-ruby-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="HTML5">
                 <i class="icon devicon-html5-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="CSS3">
                 <i class="icon devicon-css3-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Javascript">
                 <i class="icon devicon-javascript-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="jQuery">
                 <i class="icon devicon-jquery-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Ruby on Rails">
                 <i class="icon devicon-rails-plain"></i>
             </div>
         </div>
 
         <div class="row skills">
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="AngularJS">
                 <i class="devicon-angularjs-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Bootstrap">
                 <i class="devicon-bootstrap-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Github">
                 <i class="devicon-git-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="Heroku">
                 <i class="devicon-heroku-original"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="PostgreSQL">
                 <i class="devicon-postgresql-plain"></i>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 tooltip" title="PHP">
                 <i class="devicon-php-plain"></i>
             </div>
         </div>
@@ -255,6 +259,12 @@
     $("#menu-toggle").click(function(e) {
         e.preventDefault();
         $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Shows tooltips on icon hover
+
+    $(document).ready(function() {
+        $('.tooltip').tooltipster();
     });
 
     // Scrolls to the selected menu item on the page
