@@ -280,6 +280,18 @@ hr.small {
     color: black;
 }
 
+.pdf a {
+    color: black;
+}
+
+.mailto a:visited {
+    color:black;
+}
+
+.mailto a {
+    color: black;
+}
+
 /* Footer */
 
 footer {
