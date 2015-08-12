@@ -276,6 +276,10 @@ hr.small {
     margin-bottom: 20%;
 }
 
+.pdf a:visited {
+    color: black;
+}
+
 /* Footer */
 
 footer {
