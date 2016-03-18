@@ -197,9 +197,12 @@ hr.small {
 
 .skills .col-sm-2 {
     text-align: center;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
 }
 
+.icon {
+    margin-left: 20%;
+}
 /* Projects */
 
 #projects {
