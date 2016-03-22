@@ -191,6 +191,10 @@ hr.small {
     text-decoration: none;
 }
 
+.row {
+    margin-right: 0px;
+}
+
 .skills-header {
     margin-bottom: 2%;
 }
