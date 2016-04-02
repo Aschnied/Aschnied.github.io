@@ -56,11 +56,11 @@ a.navbar-brand:visited {
 }
 
 a.col-sm-2: visited {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 a.col-sm-2, mailto :visited {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 .navbar-collapse {
@@ -299,7 +299,7 @@ hr.small {
 }
 
 .pdf a:visited {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 .pdf a {
