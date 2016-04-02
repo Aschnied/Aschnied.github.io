@@ -284,6 +284,8 @@ hr.small {
 
 .contact-header {
     margin-bottom: 5%;
+    color: white;
+    background-color: rgb(49,45,85);
 }
 
 .social .col-sm-2 {
