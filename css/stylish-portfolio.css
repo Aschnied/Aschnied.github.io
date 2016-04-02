@@ -290,7 +290,7 @@ hr.small {
 }
 
 .contact-icon {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 .social .col-sm-2 {
@@ -303,15 +303,15 @@ hr.small {
 }
 
 .pdf a {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 .mailto a:visited {
-    color:black;
+    color: rgb(49,45,85);
 }
 
 .mailto a {
-    color: black;
+    color: rgb(49,45,85);
 }
 
 /* Footer */
